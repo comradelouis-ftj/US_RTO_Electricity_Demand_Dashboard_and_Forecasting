@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 
-import os
 
 # -----------------------------------------------------------------------------
 # 1. Page Setup & Data Extraction
@@ -23,7 +22,7 @@ def load_data(path):
     return df
 
 try:
-    df = load_data(os.path.abspath('data_processing/data/demand_electricty_generation_mlready.csv'))
+    df = load_data('https://raw.githubusercontent.com/comradelouis-ftj/US_RTO_Electricity_Demand_Dashboard_and_Forecasting/refs/heads/master/data_processing/data/demand_electricty_generation_mlready.csv')
 except:
     st.error('Data not found, try again later')
     st.stop()
