@@ -1,0 +1,6 @@
+.env
+__pycache__/
+elec_env/
+scripts_misc.sql
+raw/
+temp/
