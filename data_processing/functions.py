@@ -511,6 +511,8 @@ def update_data_to_newest_datetime(api_key:str, username_postgres: str, pw_postg
 def extract_view_to_df(username_postgres: str, pw_postgres: str, db_name: str='data_warehouse_electricity'):
     connection, cursor = initialize_database(user=username_postgres, pw=pw_postgres, db_name=db_name) # initializing database connection
 
+    cursor.execute('REFRESH MATERIALIZED VIEW aggregate.view_demand_electricty_generation_mlready;') # Updating materialized view in the 'aggregate' schema
+    connection.commit()
     cursor.execute('SELECT * FROM aggregate.view_demand_electricty_generation_mlready') # queries the view
     features = [col[0] for col in cursor.description] # extracts feature
     df_mlready = pd.DataFrame(data=cursor.fetchall(), columns=features) # creates the pandas dataframe
