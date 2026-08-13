@@ -31681,6 +31681,7 @@ DFCISO20260812-22AGG,2026-08-12 22:00:00,CISO,California Independent System Oper
 DFCISO20260812-23AGG,2026-08-12 23:00:00,CISO,California Independent System Operator,36969,,,,,,,,
 DFCISO20260813-00AGG,2026-08-13 00:00:00,CISO,California Independent System Operator,37756,,,,,,,,
 DFCISO20260813-01AGG,2026-08-13 01:00:00,CISO,California Independent System Operator,38543,,,,,,,,
+DFCISO20260813-02AGG,2026-08-13 02:00:00,CISO,California Independent System Operator,38703,,,,,,,,
 DFERCO20230101-00AGG,2023-01-01 00:00:00,ERCO,"Electric Reliability Council of Texas, Inc.",40795,13975,5126,14940,431,6368,11,,305
 DFERCO20230101-01AGG,2023-01-01 01:00:00,ERCO,"Electric Reliability Council of Texas, Inc.",41852,12813,5126,17780,0,5999,14,,134
 DFERCO20230101-02AGG,2023-01-01 02:00:00,ERCO,"Electric Reliability Council of Texas, Inc.",41114,10224,5126,20755,0,4984,5,,197
@@ -63363,6 +63364,7 @@ DFERCO20260812-22AGG,2026-08-12 22:00:00,ERCO,"Electric Reliability Council of T
 DFERCO20260812-23AGG,2026-08-12 23:00:00,ERCO,"Electric Reliability Council of Texas, Inc.",88138,,,,,,,,
 DFERCO20260813-00AGG,2026-08-13 00:00:00,ERCO,"Electric Reliability Council of Texas, Inc.",87751,,,,,,,,
 DFERCO20260813-01AGG,2026-08-13 01:00:00,ERCO,"Electric Reliability Council of Texas, Inc.",86450,,,,,,,,
+DFERCO20260813-02AGG,2026-08-13 02:00:00,ERCO,"Electric Reliability Council of Texas, Inc.",84279,,,,,,,,
 DFMISO20230101-00AGG,2023-01-01 00:00:00,MISO,"Midcontinent Independent System Operator, Inc.",70159,21693,11167,7638,1,26715,1106,,1136
 DFMISO20230101-01AGG,2023-01-01 01:00:00,MISO,"Midcontinent Independent System Operator, Inc.",69592,21038,11172,8103,0,25653,1144,,1145
 DFMISO20230101-02AGG,2023-01-01 02:00:00,MISO,"Midcontinent Independent System Operator, Inc.",68133,19755,11175,9075,1,23788,1158,,1164
