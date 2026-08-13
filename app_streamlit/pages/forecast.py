@@ -76,7 +76,8 @@ if not show:
 else:
     rto_id = dict_rtos[rto]
     out_raw, x, _, forecast = forecast_24_h(df_n_lagged, rto_id=rto_id, params=params, model=model)
-    st.subheader(f'**24-Hour Forecast - {forecast['time_stamp'].min()} to {forecast['time_stamp'].max()}**', text_alignment='center')
+    st.subheader(f'24-Hour Forecast - {rto}', text_alignment='center')
+    st.caption(f'{forecast['time_stamp'].min()} to {forecast['time_stamp'].max()}', text_alignment='center')
     st.divider()
 
     with st.container(width='stretch'):
