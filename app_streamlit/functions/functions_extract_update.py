@@ -100,7 +100,7 @@ def extract_demands_institutions(start:str, end:str, api_key:str, institutions: 
     df = pd.concat(list_dfs, axis=0, ignore_index=True) # combines all dataframes (by row) within the dataframes list into one dataframe
 
     # Storing the raw demands in .csv format
-    path_datasets_raw = os.path.abspath(f'./app_streamlit/data/{folder_name}')
+    path_datasets_raw = os.path.abspath(f'../data/{folder_name}')
     if not os.path.exists(path_datasets_raw):
         os.makedirs(path_datasets_raw)
 
@@ -200,7 +200,7 @@ def extract_values_fuel_type(start: str, end: str, api_key: str, institutions: l
     df_n = pd.concat(df_list, axis=0, ignore_index=True) # combining all dataframes in the list of dataframes by row
 
     # Storing the dataframe in .csv format
-    path_datasets_raw = os.path.abspath(f'./app_streamlit/data/{folder_name}')
+    path_datasets_raw = os.path.abspath(f'../data/{folder_name}')
     if not os.path.exists(path_datasets_raw):
         os.makedirs(path_datasets_raw)
 
@@ -408,7 +408,7 @@ def extract_view_to_df(username_postgres: str, pw_postgres: str, db_name: str='d
     df_mlready = pd.DataFrame(data=cursor.fetchall(), columns=features) # creates the pandas dataframe
 
     # Storing dataframe in csv format
-    path_datasets = os.path.abspath(f'./app_streamlit/data')
+    path_datasets = os.path.abspath(f'../data')
     if not os.path.exists(path_datasets):
         os.makedirs(path_datasets)
     path_df_mlready = os.path.join(path_datasets, 'demand_electricty_generation_mlready.csv')

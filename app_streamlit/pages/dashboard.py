@@ -14,15 +14,15 @@ st.set_page_config(
 st.title('US Electricity Demand Analytics Dashboard')
 st.divider()
 
-# Data extraction
-@st.cache_data
+# Data extraction - tells streamlit to re-fetch latest data every one hour
+@st.cache_data(ttl=3600)
 def load_data(path):
     df = pd.read_csv(path)
     df['time_stamp'] = pd.to_datetime(df['time_stamp'])
     return df
 
 try:
-    df = load_data('https://raw.githubusercontent.com/comradelouis-ftj/US_RTO_Electricity_Demand_Dashboard_and_Forecasting/refs/heads/master/data_processing/data/demand_electricty_generation_mlready.csv')
+    df = load_data('https://raw.githubusercontent.com/comradelouis-ftj/US_RTO_Electricity_Demand_Dashboard_and_Forecasting/refs/heads/master/app_streamlit/data/demand_electricty_generation_mlready.csv')
 except:
     st.error('Data not found, try again later')
     st.stop()
