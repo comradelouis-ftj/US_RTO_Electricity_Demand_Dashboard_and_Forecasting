@@ -178,7 +178,7 @@ def request_fuel_type_data(start: str, end: str, api_key: str, institution: str,
         except Exception as e:
             # If there is an error, i.e. due to a 400/500 code, the loop is delayed for 20 seconds, then continued
             print(f'Error due to {e}, retrying...')
-            print(len(res.json()['response']['data']))
+            #print(len(res.json()['response']['data']))
             time.sleep(20)
             continue
             
