@@ -32846,6 +32846,20 @@ DFCISO20260930-11AGG,2026-09-30 11:00:00,CISO,California Independent System Oper
 DFCISO20260930-12AGG,2026-09-30 12:00:00,CISO,California Independent System Operator,23469,,,,,,,,
 DFCISO20260930-13AGG,2026-09-30 13:00:00,CISO,California Independent System Operator,24303,,,,,,,,
 DFCISO20260930-14AGG,2026-09-30 14:00:00,CISO,California Independent System Operator,25774,,,,,,,,
+DFCISO20260930-15AGG,2026-09-30 15:00:00,CISO,California Independent System Operator,27104,,,,,,,,
+DFCISO20260930-16AGG,2026-09-30 16:00:00,CISO,California Independent System Operator,30227,,,,,,,,
+DFCISO20260930-17AGG,2026-09-30 17:00:00,CISO,California Independent System Operator,32448,,,,,,,,
+DFCISO20260930-18AGG,2026-09-30 18:00:00,CISO,California Independent System Operator,33288,,,,,,,,
+DFCISO20260930-19AGG,2026-09-30 19:00:00,CISO,California Independent System Operator,33463,,,,,,,,
+DFCISO20260930-20AGG,2026-09-30 20:00:00,CISO,California Independent System Operator,33309,,,,,,,,
+DFCISO20260930-21AGG,2026-09-30 21:00:00,CISO,California Independent System Operator,33000,,,,,,,,
+DFCISO20260930-22AGG,2026-09-30 22:00:00,CISO,California Independent System Operator,33821,,,,,,,,
+DFCISO20260930-23AGG,2026-09-30 23:00:00,CISO,California Independent System Operator,34773,,,,,,,,
+DFCISO20261001-00AGG,2026-10-01 00:00:00,CISO,California Independent System Operator,36278,,,,,,,,
+DFCISO20261001-01AGG,2026-10-01 01:00:00,CISO,California Independent System Operator,36636,,,,,,,,
+DFCISO20261001-02AGG,2026-10-01 02:00:00,CISO,California Independent System Operator,36219,,,,,,,,
+DFCISO20261001-03AGG,2026-10-01 03:00:00,CISO,California Independent System Operator,35345,,,,,,,,
+DFCISO20261001-04AGG,2026-10-01 04:00:00,CISO,California Independent System Operator,34073,,,,,,,,
 DFERCO20230101-00AGG,2023-01-01 00:00:00,ERCO,"Electric Reliability Council of Texas, Inc.",40795,13975,5126,14940,431,6368,11,,305
 DFERCO20230101-01AGG,2023-01-01 01:00:00,ERCO,"Electric Reliability Council of Texas, Inc.",41852,12813,5126,17780,0,5999,14,,134
 DFERCO20230101-02AGG,2023-01-01 02:00:00,ERCO,"Electric Reliability Council of Texas, Inc.",41114,10224,5126,20755,0,4984,5,,197
@@ -65693,6 +65707,20 @@ DFERCO20260930-11AGG,2026-09-30 11:00:00,ERCO,"Electric Reliability Council of T
 DFERCO20260930-12AGG,2026-09-30 12:00:00,ERCO,"Electric Reliability Council of Texas, Inc.",61404,,,,,,,,
 DFERCO20260930-13AGG,2026-09-30 13:00:00,ERCO,"Electric Reliability Council of Texas, Inc.",61766,,,,,,,,
 DFERCO20260930-14AGG,2026-09-30 14:00:00,ERCO,"Electric Reliability Council of Texas, Inc.",62546,,,,,,,,
+DFERCO20260930-15AGG,2026-09-30 15:00:00,ERCO,"Electric Reliability Council of Texas, Inc.",65267,,,,,,,,
+DFERCO20260930-16AGG,2026-09-30 16:00:00,ERCO,"Electric Reliability Council of Texas, Inc.",68510,,,,,,,,
+DFERCO20260930-17AGG,2026-09-30 17:00:00,ERCO,"Electric Reliability Council of Texas, Inc.",71808,,,,,,,,
+DFERCO20260930-18AGG,2026-09-30 18:00:00,ERCO,"Electric Reliability Council of Texas, Inc.",74392,,,,,,,,
+DFERCO20260930-19AGG,2026-09-30 19:00:00,ERCO,"Electric Reliability Council of Texas, Inc.",76852,,,,,,,,
+DFERCO20260930-20AGG,2026-09-30 20:00:00,ERCO,"Electric Reliability Council of Texas, Inc.",77566,,,,,,,,
+DFERCO20260930-21AGG,2026-09-30 21:00:00,ERCO,"Electric Reliability Council of Texas, Inc.",77853,,,,,,,,
+DFERCO20260930-22AGG,2026-09-30 22:00:00,ERCO,"Electric Reliability Council of Texas, Inc.",77612,,,,,,,,
+DFERCO20260930-23AGG,2026-09-30 23:00:00,ERCO,"Electric Reliability Council of Texas, Inc.",76755,,,,,,,,
+DFERCO20261001-00AGG,2026-10-01 00:00:00,ERCO,"Electric Reliability Council of Texas, Inc.",75544,,,,,,,,
+DFERCO20261001-01AGG,2026-10-01 01:00:00,ERCO,"Electric Reliability Council of Texas, Inc.",74169,,,,,,,,
+DFERCO20261001-02AGG,2026-10-01 02:00:00,ERCO,"Electric Reliability Council of Texas, Inc.",72455,,,,,,,,
+DFERCO20261001-03AGG,2026-10-01 03:00:00,ERCO,"Electric Reliability Council of Texas, Inc.",70372,,,,,,,,
+DFERCO20261001-04AGG,2026-10-01 04:00:00,ERCO,"Electric Reliability Council of Texas, Inc.",67296,,,,,,,,
 DFMISO20230101-00AGG,2023-01-01 00:00:00,MISO,"Midcontinent Independent System Operator, Inc.",70159,21693,11167,7638,1,26715,1106,,1136
 DFMISO20230101-01AGG,2023-01-01 01:00:00,MISO,"Midcontinent Independent System Operator, Inc.",69592,21038,11172,8103,0,25653,1144,,1145
 DFMISO20230101-02AGG,2023-01-01 02:00:00,MISO,"Midcontinent Independent System Operator, Inc.",68133,19755,11175,9075,1,23788,1158,,1164
@@ -98528,9 +98556,9 @@ DFMISO20260929-23AGG,2026-09-29 23:00:00,MISO,"Midcontinent Independent System O
 DFMISO20260930-00AGG,2026-09-30 00:00:00,MISO,"Midcontinent Independent System Operator, Inc.",91628,40291,10532,4121,1378,21816,2920,,880
 DFMISO20260930-01AGG,2026-09-30 01:00:00,MISO,"Midcontinent Independent System Operator, Inc.",90367,39977,10542,5014,2,21749,2266,,954
 DFMISO20260930-02AGG,2026-09-30 02:00:00,MISO,"Midcontinent Independent System Operator, Inc.",87391,37085,10546,6963,1,21700,1891,,884
-DFMISO20260930-03AGG,2026-09-30 03:00:00,MISO,"Midcontinent Independent System Operator, Inc.",83309,33791,10554,8497,5,21545,904,,832
-DFMISO20260930-04AGG,2026-09-30 04:00:00,MISO,"Midcontinent Independent System Operator, Inc.",79303,30537,10553,9547,11,20638,607,,797
-DFMISO20260930-05AGG,2026-09-30 05:00:00,MISO,"Midcontinent Independent System Operator, Inc.",75433,,,,,,,,
+DFMISO20260930-03AGG,2026-09-30 03:00:00,MISO,"Midcontinent Independent System Operator, Inc.",80068,33023,10524,11971,6,21835,871,,807
+DFMISO20260930-04AGG,2026-09-30 04:00:00,MISO,"Midcontinent Independent System Operator, Inc.",76448,30372,10525,12018,9,21265,603,,818
+DFMISO20260930-05AGG,2026-09-30 05:00:00,MISO,"Midcontinent Independent System Operator, Inc.",73536,,,,,,,,
 DFMISO20260930-06AGG,2026-09-30 06:00:00,MISO,"Midcontinent Independent System Operator, Inc.",72456,,,,,,,,
 DFMISO20260930-07AGG,2026-09-30 07:00:00,MISO,"Midcontinent Independent System Operator, Inc.",70359,,,,,,,,
 DFMISO20260930-08AGG,2026-09-30 08:00:00,MISO,"Midcontinent Independent System Operator, Inc.",69208,,,,,,,,
@@ -98540,6 +98568,20 @@ DFMISO20260930-11AGG,2026-09-30 11:00:00,MISO,"Midcontinent Independent System O
 DFMISO20260930-12AGG,2026-09-30 12:00:00,MISO,"Midcontinent Independent System Operator, Inc.",77035,,,,,,,,
 DFMISO20260930-13AGG,2026-09-30 13:00:00,MISO,"Midcontinent Independent System Operator, Inc.",78997,,,,,,,,
 DFMISO20260930-14AGG,2026-09-30 14:00:00,MISO,"Midcontinent Independent System Operator, Inc.",80632,,,,,,,,
+DFMISO20260930-15AGG,2026-09-30 15:00:00,MISO,"Midcontinent Independent System Operator, Inc.",82925,,,,,,,,
+DFMISO20260930-16AGG,2026-09-30 16:00:00,MISO,"Midcontinent Independent System Operator, Inc.",85596,,,,,,,,
+DFMISO20260930-17AGG,2026-09-30 17:00:00,MISO,"Midcontinent Independent System Operator, Inc.",88012,,,,,,,,
+DFMISO20260930-18AGG,2026-09-30 18:00:00,MISO,"Midcontinent Independent System Operator, Inc.",90528,,,,,,,,
+DFMISO20260930-19AGG,2026-09-30 19:00:00,MISO,"Midcontinent Independent System Operator, Inc.",92634,,,,,,,,
+DFMISO20260930-20AGG,2026-09-30 20:00:00,MISO,"Midcontinent Independent System Operator, Inc.",93887,,,,,,,,
+DFMISO20260930-21AGG,2026-09-30 21:00:00,MISO,"Midcontinent Independent System Operator, Inc.",94893,,,,,,,,
+DFMISO20260930-22AGG,2026-09-30 22:00:00,MISO,"Midcontinent Independent System Operator, Inc.",95409,,,,,,,,
+DFMISO20260930-23AGG,2026-09-30 23:00:00,MISO,"Midcontinent Independent System Operator, Inc.",95149,,,,,,,,
+DFMISO20261001-00AGG,2026-10-01 00:00:00,MISO,"Midcontinent Independent System Operator, Inc.",94046,,,,,,,,
+DFMISO20261001-01AGG,2026-10-01 01:00:00,MISO,"Midcontinent Independent System Operator, Inc.",93035,,,,,,,,
+DFMISO20261001-02AGG,2026-10-01 02:00:00,MISO,"Midcontinent Independent System Operator, Inc.",90161,,,,,,,,
+DFMISO20261001-03AGG,2026-10-01 03:00:00,MISO,"Midcontinent Independent System Operator, Inc.",86230,,,,,,,,
+DFMISO20261001-04AGG,2026-10-01 04:00:00,MISO,"Midcontinent Independent System Operator, Inc.",80559,,,,,,,,
 DFPJM20230101-00AGG,2023-01-01 00:00:00,PJM,"PJM Interconnection, LLC",88145,35204,33947,3956,10,12856,2477,182,952
 DFPJM20230101-01AGG,2023-01-01 01:00:00,PJM,"PJM Interconnection, LLC",85805,32984,33952,5187,8,12318,2155,195,947
 DFPJM20230101-02AGG,2023-01-01 02:00:00,PJM,"PJM Interconnection, LLC",83630,31201,33954,5233,8,11954,2095,214,842
@@ -131386,6 +131428,20 @@ DFPJM20260930-11AGG,2026-09-30 11:00:00,PJM,"PJM Interconnection, LLC",85030,,,,
 DFPJM20260930-12AGG,2026-09-30 12:00:00,PJM,"PJM Interconnection, LLC",88368,,,,,,,,
 DFPJM20260930-13AGG,2026-09-30 13:00:00,PJM,"PJM Interconnection, LLC",89568,,,,,,,,
 DFPJM20260930-14AGG,2026-09-30 14:00:00,PJM,"PJM Interconnection, LLC",90257,,,,,,,,
+DFPJM20260930-15AGG,2026-09-30 15:00:00,PJM,"PJM Interconnection, LLC",91354,,,,,,,,
+DFPJM20260930-16AGG,2026-09-30 16:00:00,PJM,"PJM Interconnection, LLC",92620,,,,,,,,
+DFPJM20260930-17AGG,2026-09-30 17:00:00,PJM,"PJM Interconnection, LLC",95188,,,,,,,,
+DFPJM20260930-18AGG,2026-09-30 18:00:00,PJM,"PJM Interconnection, LLC",97441,,,,,,,,
+DFPJM20260930-19AGG,2026-09-30 19:00:00,PJM,"PJM Interconnection, LLC",99002,,,,,,,,
+DFPJM20260930-20AGG,2026-09-30 20:00:00,PJM,"PJM Interconnection, LLC",101139,,,,,,,,
+DFPJM20260930-21AGG,2026-09-30 21:00:00,PJM,"PJM Interconnection, LLC",102900,,,,,,,,
+DFPJM20260930-22AGG,2026-09-30 22:00:00,PJM,"PJM Interconnection, LLC",103861,,,,,,,,
+DFPJM20260930-23AGG,2026-09-30 23:00:00,PJM,"PJM Interconnection, LLC",103170,,,,,,,,
+DFPJM20261001-00AGG,2026-10-01 00:00:00,PJM,"PJM Interconnection, LLC",103443,,,,,,,,
+DFPJM20261001-01AGG,2026-10-01 01:00:00,PJM,"PJM Interconnection, LLC",101337,,,,,,,,
+DFPJM20261001-02AGG,2026-10-01 02:00:00,PJM,"PJM Interconnection, LLC",97264,,,,,,,,
+DFPJM20261001-03AGG,2026-10-01 03:00:00,PJM,"PJM Interconnection, LLC",91822,,,,,,,,
+DFPJM20261001-04AGG,2026-10-01 04:00:00,PJM,"PJM Interconnection, LLC",87722,,,,,,,,
 DFSWPP20230101-00AGG,2023-01-01 00:00:00,SWPP,Southwest Power Pool,28291,8235,2039,6834,11,10192,1027,0,36
 DFSWPP20230101-01AGG,2023-01-01 01:00:00,SWPP,Southwest Power Pool,28727,7479,2039,9019,0,10111,908,0,36
 DFSWPP20230101-02AGG,2023-01-01 02:00:00,SWPP,Southwest Power Pool,28370,6478,2039,10370,0,9518,852,0,36
@@ -164233,3 +164289,17 @@ DFSWPP20260930-11AGG,2026-09-30 11:00:00,SWPP,Southwest Power Pool,31202,,,,,,,,
 DFSWPP20260930-12AGG,2026-09-30 12:00:00,SWPP,Southwest Power Pool,32987,,,,,,,,
 DFSWPP20260930-13AGG,2026-09-30 13:00:00,SWPP,Southwest Power Pool,34158,,,,,,,,
 DFSWPP20260930-14AGG,2026-09-30 14:00:00,SWPP,Southwest Power Pool,34594,,,,,,,,
+DFSWPP20260930-15AGG,2026-09-30 15:00:00,SWPP,Southwest Power Pool,35531,,,,,,,,
+DFSWPP20260930-16AGG,2026-09-30 16:00:00,SWPP,Southwest Power Pool,36862,,,,,,,,
+DFSWPP20260930-17AGG,2026-09-30 17:00:00,SWPP,Southwest Power Pool,38154,,,,,,,,
+DFSWPP20260930-18AGG,2026-09-30 18:00:00,SWPP,Southwest Power Pool,39124,,,,,,,,
+DFSWPP20260930-19AGG,2026-09-30 19:00:00,SWPP,Southwest Power Pool,40026,,,,,,,,
+DFSWPP20260930-20AGG,2026-09-30 20:00:00,SWPP,Southwest Power Pool,40526,,,,,,,,
+DFSWPP20260930-21AGG,2026-09-30 21:00:00,SWPP,Southwest Power Pool,40766,,,,,,,,
+DFSWPP20260930-22AGG,2026-09-30 22:00:00,SWPP,Southwest Power Pool,40814,,,,,,,,
+DFSWPP20260930-23AGG,2026-09-30 23:00:00,SWPP,Southwest Power Pool,40662,,,,,,,,
+DFSWPP20261001-00AGG,2026-10-01 00:00:00,SWPP,Southwest Power Pool,40092,,,,,,,,
+DFSWPP20261001-01AGG,2026-10-01 01:00:00,SWPP,Southwest Power Pool,39531,,,,,,,,
+DFSWPP20261001-02AGG,2026-10-01 02:00:00,SWPP,Southwest Power Pool,38770,,,,,,,,
+DFSWPP20261001-03AGG,2026-10-01 03:00:00,SWPP,Southwest Power Pool,37427,,,,,,,,
+DFSWPP20261001-04AGG,2026-10-01 04:00:00,SWPP,Southwest Power Pool,35636,,,,,,,,
